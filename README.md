@@ -1,3 +1,4 @@
 # BotBenchmark
-Cheat for https://humanbenchmark.com
-Wont work on your pc unlessu change the directory of the photos
+Cheat for https://humanbenchmark.com 
+
+Wont work on your pc unless change the directory of the photos
