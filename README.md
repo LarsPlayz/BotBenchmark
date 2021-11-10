@@ -1,4 +1,4 @@
 # BotBenchmark
 Cheat for https://humanbenchmark.com 
 
-Wont work on your pc unless change the directory of the photos
+Prob works on other computers, idk. Needs pyautogui, keyboard, win32api and pytesseract
